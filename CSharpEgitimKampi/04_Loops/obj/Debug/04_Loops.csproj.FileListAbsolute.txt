@@ -1,7 +1,0 @@
-C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
-C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
-C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
-C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
-C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
-C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
-C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb
