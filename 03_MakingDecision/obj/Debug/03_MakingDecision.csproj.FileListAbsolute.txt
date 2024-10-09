@@ -1,0 +1,7 @@
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
