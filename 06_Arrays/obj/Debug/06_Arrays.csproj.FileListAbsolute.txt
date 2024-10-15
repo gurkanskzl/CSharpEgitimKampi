@@ -1,0 +1,7 @@
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb

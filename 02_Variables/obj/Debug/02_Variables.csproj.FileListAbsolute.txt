@@ -1,0 +1,14 @@
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
