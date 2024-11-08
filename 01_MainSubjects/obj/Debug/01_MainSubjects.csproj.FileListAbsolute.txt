@@ -1,0 +1,21 @@
+C:\Users\gurka\OneDrive\Masaüstü\CSharp Eğitim\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\CSharp Eğitim\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\gurka\OneDrive\Masaüstü\CSharp Eğitim\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\gurka\OneDrive\Masaüstü\CSharp Eğitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\CSharp Eğitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\CSharp Eğitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\gurka\OneDrive\Masaüstü\CSharp Eğitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ CSharp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücedağ\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücedağ\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücedağ\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücedağ\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücedağ\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücedağ\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücedağ\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
