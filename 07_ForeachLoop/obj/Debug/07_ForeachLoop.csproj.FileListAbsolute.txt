@@ -1,0 +1,7 @@
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+C:\Users\gurka\OneDrive\Masaüstü\Murat Yücadağ\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
